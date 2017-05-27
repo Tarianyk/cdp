@@ -1,0 +1,6 @@
+#ignore all files with extension as *.me
+*.me
+#ignore dir.info file under root directory
+M1/Hw1/cdp-git/Dir.info
+#ignore files.info file under directory for first class
+M1/Hw1/cdp-git/src/main/java/com/epam/m1/hw1/first/Files.info
