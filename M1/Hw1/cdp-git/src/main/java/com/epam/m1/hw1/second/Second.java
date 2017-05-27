@@ -3,7 +3,7 @@ package com.epam.m1.hw1.second;
 public class Second {
 
     public String methodOne() {
-        return "c2m1";
+        return "ST3 HF3";
     }
 	
 	public String methodTwo() {
