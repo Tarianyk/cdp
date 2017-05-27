@@ -3,11 +3,11 @@ package com.epam.m1.hw1.first;
 public class First {
 
     public String methodOne() {
-        return "c1m1";
+        return "HotFix1";
     }
 	
 	public String methodTwo() {
-        return "c1m2";
+        return "ST1 HF2";
     }
 
 }
