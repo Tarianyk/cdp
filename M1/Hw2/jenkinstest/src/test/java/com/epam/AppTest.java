@@ -16,6 +16,6 @@ public class AppTest {
 
     @Test
     public void testReturnValueIsTrue() {
-        assertEquals(EXPECTED, app.getMessage("test"));
+        assertEquals(EXPECTED, app.getMessage("12test"));
     }
 }
