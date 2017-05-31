@@ -1,7 +1,7 @@
 package com.epam;
 
 public class App {
-    public String getMessage(String 123msg) {
+    public String getMessage(String msg) {
         return msg;
     }
 }
